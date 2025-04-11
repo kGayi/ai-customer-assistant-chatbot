@@ -65,7 +65,7 @@ A modern, responsive customer support chatbot built with React, Node.js, and Typ
 
 5. Open your browser and visit:
    ```
-   http://localhost:5174
+   http://localhost:5173
    ```
 
 ## 💬 Usage
@@ -106,3 +106,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from Lucide React
 - Developed with Vite
 - Powered by ChatGPT API
+
+
+
+
+
